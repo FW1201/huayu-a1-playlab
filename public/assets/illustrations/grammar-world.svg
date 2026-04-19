@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="Grammar blocks">
+  <rect x="28" y="52" width="88" height="72" rx="14" fill="#fff" stroke="#24313f" stroke-width="6"/>
+  <rect x="136" y="52" width="88" height="72" rx="14" fill="#f6b84b" stroke="#24313f" stroke-width="6"/>
+  <rect x="244" y="52" width="88" height="72" rx="14" fill="#5aa9e6" stroke="#24313f" stroke-width="6"/>
+  <path d="M54 89h36M162 89h36M270 89h36" stroke="#24313f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M82 148c16 28 40 42 98 42s96-14 112-42" fill="none" stroke="#5ebfa3" stroke-width="12" stroke-linecap="round"/>
+  <path d="M76 202h208" stroke="#24313f" stroke-width="7" stroke-linecap="round"/>
+</svg>
